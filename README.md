@@ -18,16 +18,13 @@ Some of the standout features of the project are
 2. NodeJs, ExpressJs (Back-end)
 3. MongoDB Atlas, Firebase (Database)
 
-## Demonstration  🖥️
-
-coming up.... 🔃
-
 ## Future Updates 🪴
-* Enable PWA
-* Improve overall UX/UI and fix bugs
-* Featured Jobs
-* Recently Top Job Post
-* And More! There's always room for improvement!
+
+- Enable PWA
+- Improve overall UX/UI and fix bugs
+- Featured Jobs
+- Recently Top Job Post
+- And More! There's always room for improvement!
 
 ## 🛠️ Installation Steps:
 
@@ -44,11 +41,13 @@ git clone https://github.com/lgope/job-portal.git
 ```
 npm install
 ```
+
 <p>4. Run back-end server </p>
 
 ```
 npm start
 ```
+
 Or Run back-end dev server
 
 ```
@@ -60,6 +59,7 @@ npm run dev-server
 ```
 cd ./client
 ```
+
 <p>6. Create a new file name `.env` then set up the front-end env variables </p>
 
 <p>7. Install the front-end required dependencies</p>
@@ -79,22 +79,8 @@ npm run dev
 ```
 http://localhost:5173 or Your Local URL
 ```
+
 Happy Exploring! ✌🏻
-
-## Known Bugs 🚨
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas, or concerns. Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## License 📄
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Deployed Version  🚀
-Feel free to explore 
-
-Front End 👉🏻 https://jp-lgope.netlify.app
-
-Back-End API 👉🏻 https://job-portal-lgope.onrender.com
 
 <hr />
 
