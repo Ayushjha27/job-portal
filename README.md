@@ -31,7 +31,7 @@ Some of the standout features of the project are
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/lgope/job-portal.git
+git clone https://github.com/Ayushjha27/job-portal
 ```
 
 <p>2. Create a new file name `config.env` in the root directory then set up the back-end env variables </p>
